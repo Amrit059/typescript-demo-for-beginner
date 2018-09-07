@@ -1,0 +1,7 @@
+let :  keyword's use every location in program
+var :  ''  '''  ''' '' '' ' ' '' ' ' ' ' ' '
+const:  ( scope, uses )
+for : multi for(nested for)  (let, var, const )
+fat-Arrow : use, declaration, function calling
+
+ Test On monday 

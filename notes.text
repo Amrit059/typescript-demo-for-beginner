@@ -1,0 +1,13 @@
+let (variable):
+    let is used when value is changed.
+    block scope.
+    declare before used.
+    no of local declaration  is equal to no of variables.
+
+var (variable):
+    var used when value is changed and update.
+    function scope.
+    declare anywhere or inline.
+
+const (variable):
+    const when value is never changed in the given block.
